@@ -116,10 +116,12 @@
 
 		case 3:
 			mensaje ="No entiendo lo que me tratas de decir";
-			window.open("hardware.html#1" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
+			window.open("hardware.html" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
         break;
 
-		
+		case 5:
+			mensaje ="Toca las teclas WIN+R en tu ordenador para abrir Ejecutar > Escribe Dxdiag en dicha ventana y pulsa enter, a continuación veras una ventana con los componentes de tu computadora";
+			window.open("software.html" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
 	  
         case 4:
 		if (r == 1) {
