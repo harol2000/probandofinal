@@ -115,35 +115,11 @@
         break;
 
 		case 3:
-			mensaje ="En la parte inferior derecha de su pantalla le da click derecho al icono de sonido y despues click a resolver problemas";
+			mensaje ="No entiendo lo que me tratas de decir";
 			window.open("hardware.html#1" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
         break;
 
-		case 5:
-			mensaje ="Toca las teclas WIN+R en tu ordenador para abrir Ejecutar > Escribe Dxdiag en dicha ventana y pulsa enter, a continuación veras una ventana con los componentes de tu computadora";
-			window.open("software.html#2" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-        break;
-		case 6:
-			mensaje =  "   Pulse Ctrl + Shift + Esc para abrir el Administrador de tareas, Seleccione la pestaña Rendimiento para ver el uso actual de la RAM en el cuadro Memoria , y la capacidad total de la RAM en la Memoria física";
-			window.open("siete.html#3" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-        break;
-		case 7:
-			mensaje ="Si quieres instalar la actualización ahora, seleccione Inicio > Configuración > Actualización y seguridad > Windows Update y luego elige Buscar actualizaciones. Si las actualizaciones están disponibles, instalarlas";
-			window.open("siete.html#4" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-        break;
-		case 8:
-			mensaje ="Debes implementar un sistema de refrigeración que pueden ser por torre, refrigeracion liquida o radiadores";
-			window.open("siete.html#5" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-        break;
-		case 9:
-			mensaje ="Por favor dale click al enlace para que puedas chatear con el servicio tecnico https://wa.me/51932670446"; window.open("https://wa.me/51932670446" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-			window.open("siete.html#6" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-        break;
-		case 10:
-			mensaje =" Presiones la tecla Windows + R > escriba %temp% > borre todo los archivos que aparecen y tendras mejor rendimiento en la computadora"; 
-			window.open("siete.html#7" , "ventana1" , "width=3120,height=3300,scrollbars=NO");
-
-        break;
+		
 	  
         case 4:
 		if (r == 1) {
